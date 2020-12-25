@@ -1,8 +1,19 @@
 {
     "version": 3,
-    "mappings": "AAAA,OAAO,CAAC,qJAAI,CAgBZ,AAAA,CAAC,CACD,CAAC,AAAA,OAAO,CACR,CAAC,AAAA,QAAQ,AAAC,CACT,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,UAAU,CACtB,AACD,AAAA,IAAI,AAAC,CACJ,SAAS,CAAE,KAAK,CAChB",
+    "mappings": "ACAA,OAAO,CAAC,qJAAI,CGAZ,AAAA,CAAC,CACD,CAAC,AAAA,OAAO,CACR,CAAC,AAAA,QAAQ,AAAC,CACT,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,UAAU,CACtB,eAAe,CAAE,IAAI,CACrB,eAAe,CAAE,IAAI,CACrB,AACD,AAAA,IAAI,AAAC,CACJ,SAAS,CAAE,KAAK,CAChB",
     "sources": [
-        "../scss/main.scss"
+        "../scss/main.scss",
+        "../scss/_fonts.scss",
+        "../scss/_variables.scss",
+        "../scss/_mixins.scss",
+        "../scss/_starter.scss",
+        "../scss/_header.scss",
+        "../scss/_navigation.scss",
+        "../scss/_main.scss",
+        "../scss/_home.scss",
+        "../scss/_utilities.scss",
+        "../scss/_footer.scss",
+        "../scss/_media-query-1200.scss"
     ],
     "names": [],
     "file": "main.min.css"
