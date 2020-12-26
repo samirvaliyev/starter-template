@@ -9,7 +9,6 @@
         "../scss/_starter.scss",
         "../scss/_header.scss",
         "../scss/_navigation.scss",
-        "../scss/_main.scss",
         "../scss/_home.scss",
         "../scss/_utilities.scss",
         "../scss/_footer.scss",
