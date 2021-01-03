@@ -1,8 +1,8 @@
-@import "utils/_mixins.scss";
 @import "utils/_variables.scss";
-@import "vendors/_bootstrap.scss";
-@import "base/_base.scss";
+@import "utils/_mixins.scss";
 @import "base/_fonts.scss";
+@import "base/_base.scss";
+@import "vendors/_bootstrap.scss";
 @import "base/_typography.scss";
 @import "components/_buttons.scss";
 @import "components/_carousel.scss";
@@ -13,7 +13,7 @@
 @import "layout/_grid.scss";
 @import "layout/_footer.scss";
 @import "pages/_home.scss";
-@import "pages/_media-query-576px.scss";
-@import "pages/_media-query-768px.scss";
-@import "pages/_media-query-992px.scss";
 @import "pages/_media-query-1200px.scss";
+@import "pages/_media-query-992px.scss";
+@import "pages/_media-query-768px.scss";
+@import "pages/_media-query-576px.scss";

@@ -1,6 +1,20 @@
-/*Mixins*/
 /*Variables*/
+/*Mixins*/
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
 .container,
 .container-fluid,
 .container-xxl,
@@ -613,20 +627,6 @@
   }
 }
 
-*,
-*::after,
-*::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  text-decoration: none;
-  list-style-type: none;
-}
-
-html {
-  font-size: 62.5%;
-}
-
 /*==========BUTTONS START==========*/
 /*==========BUTTONS END==========*/
 /*==========NAVIGATION START==========*/
@@ -641,12 +641,12 @@ html {
 /*==========FOOTER END==========*/
 /*==========MAIN START==========*/
 /*==========MAIN END==========*/
-/*Media Query 576px start*/
-/*Media Query 576px end*/
-/*Media Query 768px start*/
-/*Media Query 768px end*/
-/*Media Query 992px start*/
-/*Media Query 992px end*/
 /*Media Query 1200px start*/
 /*Media Query 1200px end*/
+/*Media Query 992px start*/
+/*Media Query 992px end*/
+/*Media Query 768px start*/
+/*Media Query 768px end*/
+/*Media Query 576px start*/
+/*Media Query 576px end*/
 /*# sourceMappingURL=main.css.map */
